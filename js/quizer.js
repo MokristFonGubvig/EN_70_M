@@ -548,6 +548,11 @@ let en_1970_m = [
 			pack : EN_1970_M_PACK_1,
 			group : 'Stevie Wonder',
 			song : 'Superstition (1972)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Bill Withers',
+			song : "Ain't No Sunshine (1971)"
 		}
 ];
 
