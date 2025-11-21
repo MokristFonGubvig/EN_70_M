@@ -351,8 +351,203 @@ const EN_1970_M_PACK_1 = 1;
 let en_1970_m = [
 		{
 			pack : EN_1970_M_PACK_1,
-			group : 'Олег Даль',
-			song : 'Мальчик Купидон (1975)'
+			group : 'Al Green',
+			song : "Let's Stay Together (1972)"
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Al Green',
+			song : 'Love and Happiness (1972)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Afric Simone',
+			song : 'Todo Pasará María (1973)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Barry Manilow',
+			song : 'Copacabana (At the Copa) (1978)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Barry White',
+			song : "I'm Gonna Love You Just A Little More Baby (1973)"
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Barry White',
+			song : 'Never, Never Gonna Give Ya Up (1973)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Bob Dylan',
+			song : 'Hurricane (1975)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Bob Dylan',
+			song : "Knockin' On Heaven's Door (1973)"
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Bob Marley',
+			song : 'No Woman, No Cry (ft The Wailers) (1974)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Bob Marley',
+			song : 'I Shot The Sheriff (ft The Wailers) (1973)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Charlie Rich',
+			song : 'The Most Beautiful Girl (1973)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Chris Norman',
+			song : "Stumblin' In (ft Suzi Quatro) (1978)"
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Chris Rea',
+			song : 'Three Angels (1978)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'David Bowie',
+			song : 'Moonage Daydream (1972)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'David Bowie',
+			song : 'Right (1975)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'David Bowie',
+			song : 'Starman (1972)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Elton John',
+			song : 'Bennie and the Jets (1973)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Elton John',
+			song : 'Crocodile Rock (1972)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Elton John',
+			song : "My Father's Gun (1970)"
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Eric Clapton',
+			song : 'Layla (1970)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Eric Clapton',
+			song : 'Let It Grow (1974)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Eric Clapton',
+			song : 'Next Time You See Her (1977)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Freddy Fender',
+			song : 'Before the Next Teardrop Falls (1974)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Ian Gilian',
+			song : 'Gethsemane (I Only Want To Say) (1970)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Iggy Pop',
+			song : 'Lust For Life (1977)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Iggy Pop',
+			song : 'The Passenger (1977)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Iggy Pop',
+			song : 'Tonight (1977)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'James Brown',
+			song : 'The Payback (1973)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Joe Dassin',
+			song : "L'ete indien (1975)"
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'John Paul Young',
+			song : "Love Is in the Air (1977)"
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'John Travolta',
+			song : "You're the One That I Want (ft Olivia Newton-John) (1978)"
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Johnny Cash',
+			song : '(Ghost) Riders In the Sky (1979)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Lou Reed',
+			song : "Perfect Day (1972)"
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Michel Fugain',
+			song : "Une belle histoire (1972)"
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Morris Albert',
+			song : 'Feelings (1974)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Neil Young',
+			song : 'Heart of Gold (1971)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Rod Stewart',
+			song : "Da Ya Think I'm Sexy? (1978)"
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Rod Stewart',
+			song : 'Hot Legs (With Tina Turner) (1977)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Stevie Wonder',
+			song : 'Pastime Paradise (1976)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Stevie Wonder',
+			song : 'Superstition (1972)'
 		}
 ];
 
