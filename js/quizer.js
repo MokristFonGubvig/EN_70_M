@@ -553,6 +553,11 @@ let en_1970_m = [
 			pack : EN_1970_M_PACK_1,
 			group : 'Bill Withers',
 			song : "Ain't No Sunshine (1971)"
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Charles Aznavour',
+			song : "Tous les visages de l'amour (1975)"
 		}
 ];
 
