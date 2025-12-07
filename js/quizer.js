@@ -392,7 +392,8 @@ let en_1970_m = [
 		{
 			pack : EN_1970_M_PACK_1,
 			group : 'Bob Marley',
-			song : 'No Woman, No Cry (ft The Wailers) (1974)'
+			song : 'No Woman, No Cry (ft The Wailers) (1974)',
+			ignore : true
 		},
 		{
 			pack : EN_1970_M_PACK_1,
@@ -558,6 +559,11 @@ let en_1970_m = [
 			pack : EN_1970_M_PACK_1,
 			group : 'Charles Aznavour',
 			song : "Tous les visages de l'amour (1975)"
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Bob Marley',
+			song : 'No Woman, No Cry (ft The Wailers) (1974)'
 		}
 ];
 
