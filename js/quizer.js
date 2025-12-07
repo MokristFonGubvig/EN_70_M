@@ -448,7 +448,8 @@ let en_1970_m = [
 		{
 			pack : EN_1970_M_PACK_1,
 			group : 'Eric Clapton',
-			song : 'Layla (1970)'
+			song : 'Layla (1970)',
+			ignore : true
 		},
 		{
 			pack : EN_1970_M_PACK_1,
@@ -478,7 +479,8 @@ let en_1970_m = [
 		{
 			pack : EN_1970_M_PACK_1,
 			group : 'Iggy Pop',
-			song : 'The Passenger (1977)'
+			song : 'The Passenger (1977)',
+			ignore : true
 		},
 		{
 			pack : EN_1970_M_PACK_1,
@@ -498,7 +500,8 @@ let en_1970_m = [
 		{
 			pack : EN_1970_M_PACK_1,
 			group : 'John Paul Young',
-			song : "Love Is in the Air (1977)"
+			song : "Love Is in the Air (1977)",
+			ignore : true
 		},
 		{
 			pack : EN_1970_M_PACK_1,
@@ -528,7 +531,8 @@ let en_1970_m = [
 		{
 			pack : EN_1970_M_PACK_1,
 			group : 'Neil Young',
-			song : 'Heart of Gold (1971)'
+			song : 'Heart of Gold (1971)',
+			ignore : true
 		},
 		{
 			pack : EN_1970_M_PACK_1,
@@ -564,6 +568,26 @@ let en_1970_m = [
 			pack : EN_1970_M_PACK_1,
 			group : 'Bob Marley',
 			song : 'No Woman, No Cry (ft The Wailers) (1974)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Neil Young',
+			song : 'Heart of Gold (1971)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Eric Clapton',
+			song : 'Layla (1970)'
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'John Paul Young',
+			song : "Love Is in the Air (1977)"
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Iggy Pop',
+			song : 'The Passenger (1977)'
 		}
 ];
 
