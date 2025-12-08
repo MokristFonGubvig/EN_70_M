@@ -343,10 +343,12 @@ function load(){
 
 // EN songs
 const en_1970_m_icon = [
-	'pop'
+	'pop',
+	'pop_2'
 ];
 
 const EN_1970_M_PACK_1 = 1;
+const EN_1970_M_PACK_2 = 2;
 
 let en_1970_m = [
 		{
@@ -365,7 +367,7 @@ let en_1970_m = [
 			song : 'Todo Pasará María (1973)'
 		},
 		{
-			pack : EN_1970_M_PACK_1,
+			pack : EN_1970_M_PACK_2,
 			group : 'Barry Manilow',
 			song : 'Copacabana (At the Copa) (1978)'
 		},
@@ -401,7 +403,7 @@ let en_1970_m = [
 			song : 'I Shot The Sheriff (ft The Wailers) (1973)'
 		},
 		{
-			pack : EN_1970_M_PACK_1,
+			pack : EN_1970_M_PACK_2,
 			group : 'Charlie Rich',
 			song : 'The Most Beautiful Girl (1973)'
 		},
@@ -462,12 +464,12 @@ let en_1970_m = [
 			song : 'Next Time You See Her (1977)'
 		},
 		{
-			pack : EN_1970_M_PACK_1,
+			pack : EN_1970_M_PACK_2,
 			group : 'Freddy Fender',
 			song : 'Before the Next Teardrop Falls (1974)'
 		},
 		{
-			pack : EN_1970_M_PACK_1,
+			pack : EN_1970_M_PACK_2,
 			group : 'Ian Gilian',
 			song : 'Gethsemane (I Only Want To Say) (1970)'
 		},
@@ -504,7 +506,7 @@ let en_1970_m = [
 			ignore : true
 		},
 		{
-			pack : EN_1970_M_PACK_1,
+			pack : EN_1970_M_PACK_2,
 			group : 'John Travolta',
 			song : "You're the One That I Want (ft Olivia Newton-John) (1978)"
 		},
@@ -514,17 +516,17 @@ let en_1970_m = [
 			song : '(Ghost) Riders In the Sky (1979)'
 		},
 		{
-			pack : EN_1970_M_PACK_1,
+			pack : EN_1970_M_PACK_2,
 			group : 'Lou Reed',
 			song : "Perfect Day (1972)"
 		},
 		{
-			pack : EN_1970_M_PACK_1,
+			pack : EN_1970_M_PACK_2,
 			group : 'Michel Fugain',
 			song : "Une belle histoire (1972)"
 		},
 		{
-			pack : EN_1970_M_PACK_1,
+			pack : EN_1970_M_PACK_2,
 			group : 'Morris Albert',
 			song : 'Feelings (1974)'
 		},
@@ -555,7 +557,7 @@ let en_1970_m = [
 			song : 'Superstition (1972)'
 		},
 		{
-			pack : EN_1970_M_PACK_1,
+			pack : EN_1970_M_PACK_2,
 			group : 'Bill Withers',
 			song : "Ain't No Sunshine (1971)"
 		},
@@ -570,7 +572,7 @@ let en_1970_m = [
 			song : 'No Woman, No Cry (ft The Wailers) (1974)'
 		},
 		{
-			pack : EN_1970_M_PACK_1,
+			pack : EN_1970_M_PACK_2,
 			group : 'Neil Young',
 			song : 'Heart of Gold (1971)'
 		},
@@ -580,7 +582,7 @@ let en_1970_m = [
 			song : 'Layla (1970)'
 		},
 		{
-			pack : EN_1970_M_PACK_1,
+			pack : EN_1970_M_PACK_2,
 			group : 'John Paul Young',
 			song : "Love Is in the Air (1977)"
 		},
@@ -592,6 +594,7 @@ let en_1970_m = [
 ];
 
 let en_1970_m_1 =	en_1970_m.filter(item => item.pack == 1);
+let en_1970_m_2 =	en_1970_m.filter(item => item.pack == 2);
 
 let music = [
 	{
@@ -603,6 +606,10 @@ let music = [
 				{
 					arr: en_1970_m_1,
 					name: 'EN 1970s Male: Pop'
+				},
+				{
+					arr: en_1970_m_2,
+					name: 'EN 1970s Male: One Hit'
 				}
 			]
 	}
