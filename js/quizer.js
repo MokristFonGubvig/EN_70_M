@@ -466,12 +466,14 @@ let en_1970_m = [
 		{
 			pack : EN_1970_M_PACK_2,
 			group : 'Freddy Fender',
-			song : 'Before the Next Teardrop Falls (1974)'
+			song : 'Before the Next Teardrop Falls (1974)',
+			ignore : true
 		},
 		{
 			pack : EN_1970_M_PACK_2,
-			group : 'Ian Gilian',
-			song : 'Gethsemane (I Only Want To Say) (1970)'
+			group : 'Ian Gillan',
+			song : 'Gethsemane (I Only Want To Say) (1970)',
+			ignore : true
 		},
 		{
 			pack : EN_1970_M_PACK_1,
@@ -508,7 +510,8 @@ let en_1970_m = [
 		{
 			pack : EN_1970_M_PACK_2,
 			group : 'John Travolta',
-			song : "You're the One That I Want (ft Olivia Newton-John) (1978)"
+			song : "You're the One That I Want (ft Olivia Newton-John) (1978)",
+			ignore : true
 		},
 		{
 			pack : EN_1970_M_PACK_1,
@@ -518,7 +521,8 @@ let en_1970_m = [
 		{
 			pack : EN_1970_M_PACK_2,
 			group : 'Lou Reed',
-			song : "Perfect Day (1972)"
+			song : "Perfect Day (1972)",
+			ignore : true
 		},
 		{
 			pack : EN_1970_M_PACK_2,
