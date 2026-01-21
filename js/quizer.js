@@ -594,6 +594,11 @@ let en_1970_m = [
 			pack : EN_1970_M_PACK_1,
 			group : 'Iggy Pop',
 			song : 'The Passenger (1977)'
+		},
+		{
+			pack : EN_1970_M_PACK_2,
+			group : 'Rupert Holmes',
+			song : "Escape (The Pina Colada Song) (1979)"
 		}
 ];
 
