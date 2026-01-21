@@ -599,6 +599,11 @@ let en_1970_m = [
 			pack : EN_1970_M_PACK_2,
 			group : 'Rupert Holmes',
 			song : "Escape (The Pina Colada Song) (1979)"
+		},
+		{
+			pack : EN_1970_M_PACK_1,
+			group : 'Jose Feliciano',
+			song : 'Feliz Navidad (1970)'
 		}
 ];
 
